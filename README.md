@@ -1,3 +1,5 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
+
 ### Olá! Me chamo Gabriel e meu apelido é 'Bileu', mas podem ficar a vontade de me chamarem pelo nome ou apelido. 
 
   - Novato no ramo de programação
@@ -29,3 +31,5 @@
 )](https://www.twitch.tv/thebileu)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
 )](https://www.linkedin.com/in/gabriel-menezes-266ab7266/)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
