@@ -3,7 +3,7 @@
   - Novato no ramo de programação
   - Praticando como Desenvolvedor Front-End 
   - Atualmente me aprofundando mais em HTML, CSS, JavaScript 
-  - Próximos estudos: React, Angular, TypeScript
+  - Próximos estudos: React, Angular, TypeScript, Node JS 
 
 
 ![TheBILEU's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBILEU&show_icons=true&theme=radical)
