@@ -2,9 +2,9 @@
 
 ### Olá! Me chamo Gabriel e meu apelido é 'Bileu', mas podem ficar a vontade de me chamarem pelo nome ou apelido. 
 
-  - Novato no ramo de programação
-  - Praticando como Desenvolvedor Front-End 
-  - Atualmente me aprofundando mais em HTML, CSS, JavaScript 
+  - Novato no ramo de programação;
+  - Praticando, inicialmente, como Desenvolvedor Front-End (mas pretendo um dia ir pro Back-End);
+  - Atualmente me aprofundando mais em HTML, CSS, JavaScript;
   - Próximos estudos: React, Angular, TypeScript, Node JS 
 
 
