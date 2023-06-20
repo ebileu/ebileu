@@ -1,4 +1,4 @@
-### Olá! Me chamo Gabriel, mas meu apelido é 'Bileu', então fiquem a vontade pra me chamarem ou pelo nome ou pelo apelido. 
+### Olá! Me chamo Gabriel e meu apelido é 'Bileu', mas podem ficar a vontade de me chamarem pelo nome ou apelido. 
 
   - Novato no ramo de programação
   - Praticando como Desenvolvedor Front-End 
