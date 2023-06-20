@@ -8,6 +8,7 @@
 
 ![TheBILEU's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBILEU&show_icons=true&theme=tokyonight)
 
+[![TheBILEU's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheBILEU&bg_color=000000&color=ededed&line=ee00ff&point=7a2a2a&area=true&hide_border=true)](https://github.com/TheBILEU/github-readme-activity-graph)
 ## Tecnologias que utilizo:
 
 <div style="display: inline-block"><br/>
