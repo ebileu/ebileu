@@ -11,17 +11,14 @@
 [![TheBILEU's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheBILEU&bg_color=000000&color=ededed&line=ee00ff&point=7a2a2a&area=true&hide_border=true)](https://github.com/TheBILEU/github-readme-activity-graph)
 
 ## Tecnologias que utilizo:
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBILEU&size_weight=0.5&count_weight=0.5)
 
-<div style="display: inline-block"><br/>
+<div style="display: flex">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
    <img align="center" alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <img align="center" alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"
 </div>
-
-<br/>
-
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBILEU&size_weight=0.5&count_weight=0.5)
 
 ## Redes Sociais:
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white
