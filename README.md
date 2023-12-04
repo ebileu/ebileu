@@ -3,10 +3,8 @@
 ### Olá! Me chamo Gabriel e meu apelido é 'Bileu', mas podem ficar a vontade de me chamarem pelo nome ou apelido. 
 
   - Novato no ramo de programação;
-  - Praticando, inicialmente, como Desenvolvedor Front-End (mas pretendo um dia ir pro Back-End);
-  - Atualmente me aprofundando mais em HTML, CSS, JavaScript;
-  - Próximos estudos: React, Angular, TypeScript, Node JS 
-
+  - Praticando para seguir no futuro como Full Stack;
+  - Atualmente me aprofundando mais em HTML, CSS, JavaScript, React, Java;
 
 ![TheBILEU's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBILEU&show_icons=true&theme=radical)
 
