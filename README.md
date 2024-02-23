@@ -2,15 +2,14 @@
 
 ### Olá! Me chamo Gabriel e meu apelido é 'Bileu', mas podem ficar a vontade de me chamarem pelo nome ou apelido. 
 
-  - Novato no ramo de programação;
-  - Praticando para seguir no futuro como Full Stack;
-  - Atualmente me aprofundando mais em HTML, CSS, JavaScript, React, Java;
+  - Main Goal: Developer Full Stack
+  - Advanced Knowledge: HTML, CSS, JavaScript, React
+  - Basic Knowledge: Python, C++, Java, PostgreSQL
 
 ![TheBILEU's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBILEU&show_icons=true&theme=radical)
 
 [![TheBILEU's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheBILEU&bg_color=000000&color=ededed&line=ee00ff&point=7a2a2a&area=true&hide_border=true)](https://github.com/TheBILEU/github-readme-activity-graph)
 
-## Tecnologias que utilizo:
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBILEU&size_weight=0.5&count_weight=0.5)
 
 <div style="display: flex">
