@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
 
-### Olá! Me chamo Gabriel e meu apelido é 'Bileu', mas podem ficar a vontade de me chamarem pelo nome ou apelido. 
+### Hello GitHub! My name is Gabriel, but can call me by my nickname: Bileu or KB!!
 
   - Main Goal: Developer Full Stack
   - Advanced Knowledge: HTML, CSS, JavaScript, React
