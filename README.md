@@ -3,7 +3,7 @@
 ### Hello GitHub! My name is Gabriel, but can call me by my nickname: Bileu or KB!!
 
   - Main Goal: Developer Full Stack
-  - Advanced Knowledge: HTML, CSS, JavaScript, React
+  - HTML, CSS, JavaScript, React
   - Basic Knowledge: Python, C++, Java, PostgreSQL
 
 ![ebileu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebileu&show_icons=true&theme=radical)
