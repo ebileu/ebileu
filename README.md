@@ -6,11 +6,11 @@
   - Advanced Knowledge: HTML, CSS, JavaScript, React
   - Basic Knowledge: Python, C++, Java, PostgreSQL
 
-![TheBILEU's GitHub stats](https://github-readme-stats.vercel.app/api?username=TheBILEU&show_icons=true&theme=radical)
+![ebileu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebileu&show_icons=true&theme=radical)
 
-[![TheBILEU's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TheBILEU&bg_color=000000&color=ededed&line=ee00ff&point=7a2a2a&area=true&hide_border=true)](https://github.com/TheBILEU/github-readme-activity-graph)
+[![ebileu's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ebileu&bg_color=000000&color=ededed&line=ee00ff&point=7a2a2a&area=true&hide_border=true)](https://github.com/ebileu/github-readme-activity-graph)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TheBILEU&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ebileu&size_weight=0.5&count_weight=0.5)
 
 <div style="display: flex">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
