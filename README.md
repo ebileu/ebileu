@@ -1,6 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=9370DB&height=120&section=header"/>
 
-### Hello GitHub! My name is Gabriel, but can call me by my nickname: Bileu or KB!!
 
   - Main Goal: Developer Full Stack
   - HTML, CSS, JavaScript, React
