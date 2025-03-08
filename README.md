@@ -2,8 +2,8 @@
 
 
   - Main Goal: Developer Full Stack
-  - HTML, CSS, JavaScript, React
-  - Basic Knowledge: Python, C, Java, PostgreSQL, MySQL
+  - Python, Django
+  - Basic Knowledge: C++, Java, PostgreSQL, MySQL, HTML, CSS, JavaScript, React
 
 ![ebileu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebileu&show_icons=true&theme=radical)
 
