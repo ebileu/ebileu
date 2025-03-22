@@ -2,7 +2,7 @@
 
 
   - Main Goal: Developer Full Stack
-  - Python, Django
+  - Main Studies: Python, Django
   - Basic Knowledge: MySQL, HTML, CSS, JavaScript, React
 
 ![ebileu's GitHub stats](https://github-readme-stats.vercel.app/api?username=ebileu&show_icons=true&theme=radical)
